@@ -27,5 +27,5 @@ export class NewsApiService{
         return this.logoApi.getUrlToLogo(source);
     }
 
-}
+
 }
